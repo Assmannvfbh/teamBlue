@@ -1,0 +1,8 @@
+# teamBlue Niklas"
+
+In order to load data from the csv sheets, I used a libary called: "tablesaw".
+This libary allows me to store the csv in a table like data structure.
+It provides dataclasses and useful functions to access rows and columns.
+
+To see an example of how the code works, open "dataintegration_project" as a new project
+and run the code in the "src" folder.

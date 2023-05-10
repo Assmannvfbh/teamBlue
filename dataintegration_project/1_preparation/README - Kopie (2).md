@@ -1,1 +1,0 @@
-# teamBlue Niklas and Lijun
